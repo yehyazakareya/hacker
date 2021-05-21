@@ -1,5 +1,2 @@
-main
-{
-      width:50%;
-     [Link to another page](./another-page.html).
-}
+ [Link to another page](./first page.html).
+
