@@ -1,1 +1,1 @@
-<a href="./first page.html"></a>
+[Link to another page](./another-page.html).
