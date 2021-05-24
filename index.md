@@ -1,7 +1,6 @@
  [Link to another page](./first page.html).
  <a href="/first page.html">
- <img src="http://www.google.com.au/images/nav_logo7.png"
-         width=150" height="70"/>                              
+ <img src="http://www.google.com.au/images/nav_logo7.png" width=150" height="70"/>                              
 </a>
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](./first page.html)                                                 
 [Link to another page]
